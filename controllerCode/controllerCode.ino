@@ -1,5 +1,5 @@
 #include "Nintendo.h"
-/* This code uses the Nicohood Library
+/* This code uses Nicohood's Nintendo Library
  * Use this code at your own risk
  * Code written by Chirayu Jain and this code is open source.
  * Just remember to mention you used my code!
